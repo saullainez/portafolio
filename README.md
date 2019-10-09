@@ -1,4 +1,4 @@
-# Portafolio
+# Portafolio - FrontEnd
 
 Esta aplicación está desarrollada en Angular8.
 Permite crear,mostrar, editar y eliminar proyectos
